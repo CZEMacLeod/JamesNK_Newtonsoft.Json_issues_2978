@@ -1,0 +1,16 @@
+[
+  {
+    "type": "single-plain",
+    "questionText": "Single-line plain text",
+    "placeholder": "Test placeholder"
+  },
+  {
+    "type": "radio",
+    "options": [
+      "Option 0",
+      "Option 1",
+      "Option 2"
+    ],
+    "questionText": "Single selection"
+  }
+]
